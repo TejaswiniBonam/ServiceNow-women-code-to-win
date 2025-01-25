@@ -1,0 +1,2 @@
+1. Sum ( XOR ( AND ( all subarrays)) + XOR ( OR ( all subarrays)))
+    len(arr) <= 10^5
